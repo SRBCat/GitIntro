@@ -1,2 +1,0 @@
-# GitIntro
-Tutorial
